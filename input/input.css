@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* In your CSS file or within your Tailwind configuration */
+.darken-shadow {
+    filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 30)); /* Adjust the darkness as needed */
+  }
+
